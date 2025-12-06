@@ -50,8 +50,7 @@ Bu proje, **bankacılık sektöründe müşteri kaybı (churn) riskini tahmin et
 9. [Kurulum](#-kurulum)
 10. [Proje Yapısı](#-proje-yapısı)
 11. [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
-12. [İletişim](#-iletişim)
-
+    
 ---
 
 ## 1) Problem Tanımı
