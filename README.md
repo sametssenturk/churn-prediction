@@ -692,22 +692,6 @@ bank-customer-churn/
 
 ---
 
-## 📞 İletişim
-
-**Proje Sahibi:** [Your Name]
-
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-## 📜 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır.
-
----
-
 ## 🙏 Teşekkürler
 
 - **Dataset:** [Gaurav Topre - Kaggle](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
@@ -715,11 +699,3 @@ Bu proje MIT Lisansı altında lisanslanmıştır.
 - **Tools:** scikit-learn, CatBoost, SHAP, Streamlit
 
 ---
-
-<div align="center">
-
-**⭐ Eğer bu proje işinize yaradıysa, star vermeyi unutmayın!**
-
-Made with ❤️ using Python & CatBoost
-
-</div>
