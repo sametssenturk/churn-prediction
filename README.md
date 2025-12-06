@@ -225,7 +225,7 @@ Confusion Matrix:
 | **Recall** | 0.190 | 0.484 | **+155%** ⬆️ (2.5x) |
 | **F1-Score** | 0.280 | 0.606 | **+116%** ⬆️ |
 | **Accuracy** | 0.810 | 0.872 | **+7.6%** ⬆️ |
-| **Specificity** | 0.971 | 0.971 | Korundu ✅ |
+| **Specificity** | 0.966 | 0.971 | ⬆️ |
 
 ### 💡 İyileştirme Katkıları
 
