@@ -350,7 +350,7 @@ MODEL_DIR = os.path.dirname(os.path.abspath(__file__))
 ### 1️⃣ Repository Clone
 
 ```bash
-git clone https://github.com/username/bank-customer-churn.git
+git clone https://github.com/sametssenturk/churn-prediction.git
 cd bank-customer-churn
 ```
 
