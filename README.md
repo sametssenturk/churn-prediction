@@ -351,7 +351,7 @@ MODEL_DIR = os.path.dirname(os.path.abspath(__file__))
 
 ```bash
 git clone https://github.com/sametssenturk/churn-prediction.git
-cd bank-customer-churn
+cd churn-prediction
 ```
 
 ### 2️⃣ Virtual Environment Oluştur
