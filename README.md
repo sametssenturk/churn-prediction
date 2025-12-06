@@ -229,9 +229,9 @@ Confusion Matrix:
 
 ### 💡 İyileştirme Katkıları
 
-1. **Feature Engineering (60%):** `inactive_high_balance` tek başına Recall +15 puan
-2. **Model Değişimi (30%):** CatBoost categorical features'ı doğal handle ediyor
-3. **Hyperparameter Tuning (10%):** Optimal parametreler bulundu
+1. **Feature Engineering :** `inactive_high_balance` tek başına Recall +15 puan
+2. **Model Değişimi :** CatBoost categorical features'ı doğal handle ediyor
+3. **Hyperparameter Tuning :** Optimal parametreler bulundu
 
 **Overfitting Check:** Train (0.883) vs Test (0.874) → Gap: 0.009 (Minimal!)
 
@@ -253,11 +253,6 @@ Confusion Matrix:
 - Churn %20 (minority), Non-churn %80 (majority)
 - Default threshold (0.5) → Model majority class'e kayıyor
 - Trade-off: High specificity (0.97) vs Moderate recall (0.48)
-
-**3. Kaggle Benchmarks:**
-- Ortalama Recall: 0.40-0.55
-- Ortalama ROC-AUC: 0.82-0.88
-- **Bizim model:** Recall 0.484, ROC-AUC 0.874 ✅ Üst dilimde
 
 ### 💼 Model'in Güçlü Yönleri (Business Açısından)
 
