@@ -125,27 +125,16 @@ EDA ve domain knowledge'a dayalı olarak **6 yeni özellik** oluşturuldu:
 ### 🛠️ Oluşturulan Özellikler
 
 **1. Ratio Features:**
-- `balance_to_salary_ratio` → Churn ile pozitif korelasyon (0.15)
-- `tenure_age_ratio` → Churn ile negatif korelasyon
+- `balance_to_salary_ratio` 
+- `tenure_age_ratio` 
 
 **2. Categorical Binning:**
-- `credit_score_category` (Low/Medium/High) → 'Low' kategorisinde churn %35+
-- `age_group` (Young/Middle-aged/Senior) → 'Middle-aged' grubunda churn peak
+- `credit_score_category` (Low/Medium/High) 
+- `age_group` (Young/Middle-aged/Senior) 
 
 **3. Interaction Features:**
-- `high_value_customer` → High-value müşterilerde churn %12 (normal %22)
-- `inactive_high_balance` ⭐ **EN GÜÇLÜ FEATURE** → Bu segmentte churn %45+
-
-### 📈 Feature Engineering Etkisi
-
-| Metrik | Baseline | + Feature Engineering | İyileşme |
-|--------|----------|----------------------|----------|
-| **Test ROC-AUC** | 0.77 | 0.83 | +7.8% |
-| **Test Recall (Churn)** | 0.19 | 0.42 | +121% (2.2x) |
-| **Test F1 (Churn)** | 0.28 | 0.54 | +93% |
-
-**Sonuç:** Feature engineering **oyunun kurallarını değiştirdi!** Recall neredeyse 2x arttı.
-
+- `high_value_customer` 
+- `inactive_high_balance` 
 ---
 
 ## 4) Validasyon Şeması ve Seçim Gerekçesi
