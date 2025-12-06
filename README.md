@@ -615,8 +615,6 @@ Tarayıcınız otomatik açılacak (http://localhost:8501).
 ## 📁 Proje Yapısı
 
 ```
-bank-customer-churn/
-│
 ├── Notebooks/                          # Kaggle notebooks (çıktılarla)
 │   ├── 1-eda-notebook.ipynb            # EDA
 │   ├── 2-baseline-notebook.ipynb       # Baseline (LogReg)
