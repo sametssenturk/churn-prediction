@@ -634,10 +634,7 @@ bank-customer-churn/
 │   ├── best_model.pkl                  # CatBoost model
 │   └── preprocessor.pkl                # RobustScaler + OneHotEncoder
 │
-├── requirements.txt                    # Python dependencies
-├── README.md                           # Bu dosya
-├── .gitignore                          # Git ignore rules
-└── LICENSE                             # MIT License
+├── README.md                           # Bu dosya                             
 ```
 
 ---
