@@ -689,13 +689,3 @@ bank-customer-churn/
 |-----------|----------|
 | **Streamlit** | Web UI |
 | **pickle** | Model serialization |
-
----
-
-## 🙏 Teşekkürler
-
-- **Dataset:** [Gaurav Topre - Kaggle](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
-- **Platform:** Kaggle Notebooks
-- **Tools:** scikit-learn, CatBoost, SHAP, Streamlit
-
----
