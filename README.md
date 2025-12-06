@@ -27,6 +27,15 @@ Bu proje, **bankacılık sektöründe müşteri kaybı (churn) riskini tahmin et
 - **Model Performansı:** ROC-AUC 0.874, Accuracy 87%, Recall 0.48, Specificity 0.97
 - **Deployment:** Streamlit Web App
 
+## 📓 Notebook Dosyaları
+
+- EDA_Notebook : https://www.kaggle.com/code/sametsenturk/1-eda-notebook
+- Baseline_Notebook : https://www.kaggle.com/code/sametsenturk/2-baseline-notebook
+- Feature_Engineering_Notebook : https://www.kaggle.com/code/sametsenturk/3-feature-engineering-notebook
+- Model_Optimization_Notebook : https://www.kaggle.com/code/sametsenturk/4-model-optimization-notebook
+- Model_Evaluation_Notebook : https://www.kaggle.com/code/sametsenturk/5-model-evaluation-notebook
+- Pipeline_Notebook : https://www.kaggle.com/code/sametsenturk/6-pipeline-notebook
+
 ---
 
 ## 🎥 Canlı Demo
