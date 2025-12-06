@@ -30,27 +30,9 @@ Bu proje, **bankacılık sektöründe müşteri kaybı (churn) riskini tahmin et
 ## 🎥 Demo
 
 ### 🌐 Canlı Demo
-> **Deploy Linki:** *(GitHub'a push sonrası Streamlit Cloud üzerinden deploy edilecek)*
+> **Deploy Linki:
 
-### 📸 Ekran Görüntüleri
-*(Deployment sonrası eklenecek)*
 
----
-
-## 📋 İçindekiler
-
-1. [Problem Tanımı](#1-problem-tanımı)
-2. [Baseline Süreci ve Skoru](#2-baseline-süreci-ve-skoru)
-3. [Feature Engineering Denemeleri](#3-feature-engineering-denemeleri-ve-sonuçları)
-4. [Validasyon Şeması](#4-validasyon-şeması-ve-seçim-gerekçesi)
-5. [Final Pipeline ve Feature Set Seçimi](#5-final-pipeline-ve-feature-set-stratejisi)
-6. [Baseline vs Final Model Karşılaştırması](#6-baseline-vs-final-model-performans-farkı)
-7. [Business Uyumu](#7-final-modelin-business-gereksinimleri-ile-uyumu)
-8. [Production Deployment Stratejisi](#8-canlıya-çıkma-ve-izleme-stratejisi)
-9. [Kurulum](#-kurulum)
-10. [Proje Yapısı](#-proje-yapısı)
-11. [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
-    
 ---
 
 ## 1) Problem Tanımı
